@@ -56,7 +56,7 @@ body{
 
 /* posts */
 .posts{ flex:1; padding:12px }
-.posts h2{ margin-top:0; border-bottom:2px solid var(--accent); padding-bottom:6px}
+.posts h2{ margin-top:0; text-align: center; border-bottom:2px solid var(--accent); padding-bottom:6px }
 
 .post-list{ list-style:none; padding:0; margin:0 }
 .post-item{
